@@ -7,4 +7,4 @@ To encode text, run `hide.py` and give the text from stdin.
 
 `unhide.py` can be used to unhide the text.
 
-PS: I did this as a birthday card for my friend :)
+PS: Happy birthday Nidhi :)
